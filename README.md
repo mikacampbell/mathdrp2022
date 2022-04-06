@@ -1,4 +1,4 @@
-# Bayesian Inference on Infectious Deisease in the Tropics
+# Bayesian Inference on Infectious Disease in the Tropics
 Mika Campbell, Marlin Figgins
 
 GOALS:
